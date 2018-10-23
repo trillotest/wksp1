@@ -1,0 +1,10 @@
+{
+  "name" : "MyFunctions",
+  "routeSpecs" : [
+    {
+      "location" : "/fs/app1/MyFunctions/nasaPlanetary",
+      "path" : "/fs/app1/MyFunctions/nasaPlanetary",
+      "secure" : true
+    }
+  ]
+}
